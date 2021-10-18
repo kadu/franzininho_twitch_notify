@@ -26,3 +26,7 @@ Para usar o MQTT precisei fazer a instalação de uma lib da adafruit com suport
 ### Anotações
 
 Sempre que tentei fazer o uso da fita de led (20 leds) direto da Franzininho ele entra em modo de proteção, preciso alimentar o led de forma indepentente para evitar esse problema (e/ou entender o que está fazendo ele entrar em modo de proteção)
+
+### POC
+
+![Breadboard + Franzininho + LEDs](images/hw.png "Breadboard + Franzininho + LEDs")
