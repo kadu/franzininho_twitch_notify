@@ -29,4 +29,4 @@ Sempre que tentei fazer o uso da fita de led (20 leds) direto da Franzininho ele
 
 ### POC
 
-![Breadboard + Franzininho + LEDs](images/hw.png "Breadboard + Franzininho + LEDs")
+![Breadboard + Franzininho + LEDs](images/hw.jpg "Breadboard + Franzininho + LEDs")
