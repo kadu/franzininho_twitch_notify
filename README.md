@@ -19,3 +19,10 @@ Usarei uma fita de led rgb endereçavel ws2812b que será nosso mostrador, o pes
 
 ![Arquitetura](images/integracao_franzininho_3.png "Arquitetura")
 
+## CircuitPython
+
+Para usar o MQTT precisei fazer a instalação de uma lib da adafruit com suporte ao MQTT, foi bem simples depois de entender como funciona essa integração. Basicamente existe na página do [CircuitPython](https://circuitpython.org/) um bundle com várias bibliotecas já prontas para ser passado para o Franzininho, bastando pegar a versão do Bundle certa para a versão do Circuit instalado no seu Franzininho, jogar na pasta lib e "correr pro abraço".
+
+### Anotações
+
+Sempre que tentei fazer o uso da fita de led (20 leds) direto da Franzininho ele entra em modo de proteção, preciso alimentar o led de forma indepentente para evitar esse problema (e/ou entender o que está fazendo ele entrar em modo de proteção)
